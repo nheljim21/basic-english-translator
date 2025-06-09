@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
-A simple, responsive web-based translator built with vanilla HTML, CSS, and JavaScript. Translate text between English and 9 other languages with a clean, user-friendly interface.
+A simple, responsive web-based translator built with *vanilla HTML*, **CSS*, and **JavaScript*. Translate text between English and 9 other languages with a clean, user-friendly interface.
 
 
 ## ✨ Features
@@ -26,8 +26,7 @@ Experience the live version of this project: [v0-new-project-dvlsj1ckq4c-f786hdb
 
 ## 🚀 Deployment
 
-This project was generated using v0 and deployed on Vercel. For more information on how to create and deploy projects with v0, visit [v0.dev](https://v0.dev).
-
+This project was deployed on *Vercel*.
 
 ## 🚀 Quick Start
 
@@ -99,7 +98,7 @@ Then open \`http://localhost:8000\` in your browser.
 ## 🔧 Technical Details
 
 ### Architecture
-- **Frontend**: Pure HTML5, CSS3, and ES6+ JavaScript
+- **Frontend**: Pure *HTML5*, *CSS3*, and *ES6+ JavaScript*
 - **Translation API**: MyMemory Translation API (free, no API key required)
 - **Fallback**: Basic dictionary for common words when API is unavailable
 - **No Dependencies**: Works without any external libraries or frameworks
