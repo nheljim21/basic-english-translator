@@ -20,6 +20,15 @@ A simple, responsive web-based translator built with vanilla HTML, CSS, and Java
 - **Loading States**: Visual feedback during translation process
 - **Clean UI**: Modern, intuitive interface with smooth animations
 
+## 🌐 Live Demo
+
+Experience the live version of this project: [v0-new-project-dvlsj1ckq4c-f786hdb0r-nheljim-edis-projects.vercel.app](https://v0-new-project-dvlsj1ckq4c-f786hdb0r-nheljim-edis-projects.vercel.app/)
+
+## 🚀 Deployment
+
+This project was generated using v0 and deployed on Vercel. For more information on how to create and deploy projects with v0, visit [v0.dev](https://v0.dev).
+
+
 ## 🚀 Quick Start
 
 ### Option 1: Direct Download
@@ -116,8 +125,6 @@ This translator uses the [MyMemory Translation API](https://mymemory.translated.
 - **Free to use**: No API key required
 - **Rate limits**: 1000 requests per day for anonymous usage
 - **Fallback**: Basic dictionary for offline/limited connectivity scenarios
-
-### This is a static website deployed on [Vercel](https://vercel.com).
 
 ## 🎨 Customization
 
