@@ -1,10 +1,12 @@
 # 🌐 Basic English Translator
 
+![Basic English Translator](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat)
+
 A simple, responsive web-based translator built with vanilla HTML, CSS, and JavaScript. Translate text between English and 9 other languages with a clean, user-friendly interface.
 
-![Basic English Translator](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## ✨ Features
 
@@ -114,6 +116,8 @@ This translator uses the [MyMemory Translation API](https://mymemory.translated.
 - **Free to use**: No API key required
 - **Rate limits**: 1000 requests per day for anonymous usage
 - **Fallback**: Basic dictionary for offline/limited connectivity scenarios
+
+### This is a static website deployed on [Vercel](https://vercel.com).
 
 ## 🎨 Customization
 
